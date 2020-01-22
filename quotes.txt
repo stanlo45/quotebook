@@ -1,3 +1,7 @@
 So far we've managed to avoid turning Perl into APL.  :-)
              -- Larry Wall in <199702251904.LAA28261@wall.org>
 
+"Just think of a computer as hardware you can program."
+-- Nigel de la Tierre
+
+
