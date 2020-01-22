@@ -6,3 +6,4 @@ So far we've managed to avoid turning Perl into APL.  :-)
 
 Don't abandon hope: your Tom Mix decoder ring arrives tomorrow.
 
+RAM wasn't built in a day.
